@@ -224,7 +224,7 @@
                 "questions": [
                   {
                     "image": null,
-                    "question": "$x-2=5$ бол $x=?$",
+                    "question": "$x-2=5$ $x=?$",
                     "answers": [
                       {
                         "id": "1",
@@ -243,7 +243,7 @@
                   },
                   {
                     "image": null,
-                    "question": "$x-3=2$ бол $x=?$",
+                    "question": "$x-3=2$",
                     "answers": [
                       {
                         "id": "1",
